@@ -35,6 +35,12 @@ These are not easy languages, but I chose them intentionally.
 I am building the discipline required to engineer at the lowest level.
 
 
+## 📈 Language Progress
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-The-Cinarian&layout=compact&theme=dark&langs_count=8"/>
+</p>
+
 ## 🛠️ Current Projects (Learning Phase)
 
 - CLI Calculator (C)
