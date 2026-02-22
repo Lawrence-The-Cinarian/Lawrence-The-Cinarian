@@ -31,7 +31,7 @@ I am a polyglot coder in progress, sharpening my skills in:
 - Assembly Language
 - VHDL (Hardware Description & Digital Design)
 
-These are not easy languages — but I chose them intentionally.  
+These are not easy languages, but I chose them intentionally.  
 I am building the discipline required to engineer at the lowest level.
 
 
@@ -42,6 +42,7 @@ I am building the discipline required to engineer at the lowest level.
 - Currency Converter (C)
 - Atm Simulator (C)
 - Crypto-Currency Converter (C)
+  
 These projects represent my foundational stage, focusing on control flow, structured programming, and compiler workflow.
 
 More advanced systems projects coming soon.
