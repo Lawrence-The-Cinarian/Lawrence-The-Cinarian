@@ -40,7 +40,8 @@ I am building the discipline required to engineer at the lowest level.
 - CLI Calculator (C)
 - Unit Converter (C)
 - Currency Converter (C)
-
+- Atm Simulator (C)
+- Crypto-Currency Converter (C)
 These projects represent my foundational stage, focusing on control flow, structured programming, and compiler workflow.
 
 More advanced systems projects coming soon.
