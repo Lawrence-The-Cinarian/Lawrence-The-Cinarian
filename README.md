@@ -67,12 +67,6 @@ Optimize relentlessly.
 Slow progress is still progress.
 
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lawrence-The-Cinarian&show_icons=true&theme=dark)
-
-
 ## 🔥 Quote I Live By
 
 > "The machine does exactly what you tell it. Master the machine."
