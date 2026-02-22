@@ -34,11 +34,11 @@ I am a polyglot coder in progress, sharpening my skills in:
   <img src="./Screenshot_20260222-130707_1.png" alt="C | ASM | VHDL" />
 </p>
 
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
 ![Assembly](https://img.shields.io/badge/Assembly-FF6644?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
 ![VHDL](https://img.shields.io/badge/VHDL-33AA66?style=for-the-badge&logoColor=white)
+
 
 These are not easy languages, but I chose them intentionally.  
 I am building the discipline required to engineer at the lowest level.
