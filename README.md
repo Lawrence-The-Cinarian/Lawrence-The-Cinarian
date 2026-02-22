@@ -30,7 +30,9 @@ I am a polyglot coder in progress, sharpening my skills in:
 - C (Systems Programming & Memory Management)
 - Assembly Language
 - VHDL (Hardware Description & Digital Design)
-
+<p align="center">
+  <img src="./Screenshot_20260222-130707_1.png" alt="C | ASM | VHDL" />
+</p>
 These are not easy languages, but I chose them intentionally.  
 I am building the discipline required to engineer at the lowest level.
 
