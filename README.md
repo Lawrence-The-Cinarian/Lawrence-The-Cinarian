@@ -73,3 +73,15 @@ Slow progress is still progress.
 
 > "The machine does exactly what you tell it. Master the machine."
 
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
+![Assembly](https://img.shields.io/badge/Assembly-FF6644?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+
+
+
+![VHDL](https://img.shields.io/badge/VHDL-33AA66?style=for-the-badge&logoColor=white)
